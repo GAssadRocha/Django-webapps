@@ -9,5 +9,16 @@ List all environments: Conda info --envs
 
 Django project name: HowMuchOwe
 
-Runing Server:
+Running Server:
 python manage.py runserver
+
+File locations
+Main code location:
+D:\Documentos\Engenharia\Projetos\Projetos Pessoais Engenharia\App-quanto-te-devo\Em python
+
+Django project location
+C:\Projects
+
+Google Drive Terminal application:
+Location: H:\My Drive\Projetos\App-quanto-te-devo
+How to run: python "h:/My Drive/Projetos/App-quanto-te-devo/main.py"
