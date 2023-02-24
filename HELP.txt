@@ -1,0 +1,13 @@
+HOW TO OPEN "AppHowMuch_env" IN VS CODE TERMINAL:
+
+Copy and paste this on the terminal
+C:/Users/assad/.conda/envs/AppHowMuch_env/Scripts/activate
+
+Django virtual environment name:  AppHowMuch_env
+
+List all environments: Conda info --envs
+
+Django project name: HowMuchOwe
+
+Runing Server:
+python manage.py runserver
